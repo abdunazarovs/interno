@@ -1,1 +1,61 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    margin:20px;
+
+}
+.container
+{ margin:20px;
+    padding:20px;
+   
+    width:1440px;
+}
+header{
+    margin:20px;
+    
+}
+.interno_nav{
+   
+    margin-bottom: 20px;
+    margin-left:80px;
+    margin-right: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.interno_nav img{
+    width: 120px;
+    height: 120px;
+}
+
+.texts{
+    display: flex;
+    justify-content: space-between;
+    gap:40px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.text_item1{
+   font-weight: 400;
+   font-size: 20px;
+   color:rgba(205, 162, 116, 1);
+   
+    font-family: 'Jost';
+}
+.text_item{
+    font-weight: 400;
+   font-size: 20px;
+   color:rgba(41, 47, 54, 1);
+   
+    font-family: 'Jost';
+}
+
+#intro{
+    margin-top:50px;
+
+}
+#intro img{
+    width: 100%;
+    height: 100%;
+    margin-left:-70px;
+}
