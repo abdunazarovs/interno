@@ -59,3 +59,66 @@ header{
     height: 100%;
     margin-left:-70px;
 }
+
+#cards{
+    margin:60px;
+  
+}
+
+.all{
+    display: flex;
+     gap:200px;
+}
+
+.leftcard{
+  
+    h6{
+        font-family:'Jost';
+        font-size:29px;
+        font-weight:400;
+        color:rgba(41, 47, 54, 1);
+    }
+    h5{
+        font-family:'Jost';
+        font-size:22px;
+        font-weight:400;
+        color:rgba(77, 80, 83, 1);
+    }
+}
+
+.icon{
+    display: flex;
+    gap:40px;
+}
+
+.middlecard{
+  
+    h6{
+        font-family:'Jost';
+        font-size:29px;
+        font-weight:400;
+        color:rgba(41, 47, 54, 1);
+    }
+    h5{
+        font-family:'Jost';
+        font-size:22px;
+        font-weight:400;
+        color:rgba(77, 80, 83, 1);
+    }
+}
+
+.rightcard{
+  
+    h6{
+        font-family:'Jost';
+        font-size:29px;
+        font-weight:400;
+        color:rgba(41, 47, 54, 1);
+    }
+    h5{
+        font-family:'Jost';
+        font-size:22px;
+        font-weight:400;
+        color:rgba(77, 80, 83, 1);
+    }
+}
